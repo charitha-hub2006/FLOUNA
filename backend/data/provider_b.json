@@ -1,0 +1,6 @@
+{
+  "restaurants": [
+    {"rest_id": "b1", "details": {"title": "Taco Fiesta", "food_type": "Mexican", "stars": 4.2}, "logistics": {"time": 25}, "pricing": {"budget": 18}, "menu": [{"item": "Spicy Beef Tacos"}, {"item": "Vegan Bowl"}]},
+    {"rest_id": "b2", "details": {"title": "Burger Joint", "food_type": "American", "stars": 4.0}, "logistics": {"time": 25}, "pricing": {"budget": 14}, "menu": [{"item": "Double Cheeseburger"}]}
+  ]
+}
